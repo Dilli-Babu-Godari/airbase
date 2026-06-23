@@ -686,7 +686,7 @@
                         <dependency>
                             <groupId>com.github.Dilli-Babu-Godari.airbase</groupId>
                             <artifactId>airbase-policy</artifactId>
-                            <version>jdk25-upgrade-SNAPSHOT</version>
+                            <version>jdk25-upgrade-b54952758e-1</version>
                         </dependency>
                     </dependencies>
                     <configuration>
@@ -808,7 +808,7 @@
                         <dependency>
                             <groupId>com.github.Dilli-Babu-Godari.airbase</groupId>
                             <artifactId>airbase-policy</artifactId>
-                            <version>jdk25-upgrade-SNAPSHOT</version>
+                            <version>jdk25-upgrade-b54952758e-1</version>
                         </dependency>
                     </dependencies>
                     <executions>
